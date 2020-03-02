@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    display: inline-block;
+    width: 700px;
+}
+li{
+    display: inline-block;
+    width: 220px;
+    font-weight: 300px;
+}
+.bouton {
+    display:block;
+    line-height:50px;
+    text-align:center;
+    background-color: transparent;
+    color:white;
+    text-decoration:none;
+    border: 2px solid;
+    border-radius: 2000px;
+    border-color: black;
+     background-color: turquoise;
+    }
+body{
+    background-image: url(../images/backgroundtouba.jpeg);
+    color: ivory;
+}   
+    
+.photo{
+        width:300px;
+        height: 300px;        
+}

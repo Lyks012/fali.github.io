@@ -1,0 +1,30 @@
+li{
+    display: inline-block;
+    width: 220px;
+    font-weight: 300;
+}
+.bouton {
+    display:block;
+    line-height:50px;
+    text-align:center;
+    background-color: transparent;
+    color:white;
+    text-decoration:none;
+    border: 2px solid;
+    border-radius: 2000px;
+    border-color: black;
+     background-color: turquoise;
+    }
+body{
+    background-attachment: fixed;
+    background-image: url(../images/fondsl.jpeg);
+    font-family: fantasy;
+}
+h1, h2{
+    text-align: center;
+}
+.left{
+    text-align: center;
+    display: inline-block;
+    width: 700px;
+}
